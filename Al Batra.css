@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: #765332;
+}
+.logo img{
+    width: 100%;
+    height: 400px;
+}
+.photo img{
+width: 400px;
+height: 200px;
+border: 5px solid white;
+margin: 10px;
+}
+
+.photo {
+    margin: 10px;
+}
+.reed{
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px; 
+}
+.reed a{
+    color: red;
+    text-decoration: underline;
+}
+.opinion {
+    margin: 20px;
+}
+.visitors{
+    margin: 20px;
+
+}
+.visitors .visitora{
+    border: 5px solid #fff;
+    margin: 10px;
+    height: 50px;
+    text-align: center;
+}
+.visitors .visitorb{
+    border: 5px solid #fff;
+    margin: 10px;
+    height: 50px;
+    text-align: center;
+}
